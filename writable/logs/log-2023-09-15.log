@@ -1,0 +1,50 @@
+CRITICAL - 2023-09-15 02:27:30 --> syntax error, unexpected token "endforeach", expecting end of file
+in APPPATH\Views\main.php on line 26.
+ 1 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('main', [], true)
+ 3 APPPATH\Controllers\MainController.php(20): view('main', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\3F1\\public\\index.php')
+CRITICAL - 2023-09-15 05:50:02 --> syntax error, unexpected token "endforeach", expecting end of file
+in APPPATH\Views\main.php on line 26.
+ 1 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('main', [], true)
+ 3 APPPATH\Controllers\MainController.php(20): view('main', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\3F1\\public\\index.php')
+CRITICAL - 2023-09-15 05:50:04 --> syntax error, unexpected token "endforeach", expecting end of file
+in APPPATH\Views\main.php on line 26.
+ 1 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('main', [], true)
+ 3 APPPATH\Controllers\MainController.php(20): view('main', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\3F1\\public\\index.php')
+CRITICAL - 2023-09-15 05:50:21 --> syntax error, unexpected token "endforeach", expecting end of file
+in APPPATH\Views\main.php on line 26.
+ 1 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('main', [], true)
+ 3 APPPATH\Controllers\MainController.php(20): view('main', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\3F1\\public\\index.php')
+CRITICAL - 2023-09-15 05:50:22 --> syntax error, unexpected token "endforeach", expecting end of file
+in APPPATH\Views\main.php on line 26.
+ 1 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('main', [], true)
+ 3 APPPATH\Controllers\MainController.php(20): view('main', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\3F1\\public\\index.php')
